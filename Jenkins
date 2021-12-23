@@ -3,7 +3,7 @@ pipeline {
   stages {
       stage('Pull') {
          steps {
-             git 'https://github.com/channagouda0909/ctsdec1batch.git'
+             git 'https://github.com/eshwarjayakiran/job33.git'
          }
       }
       stage('Package') {
